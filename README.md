@@ -1,4 +1,4 @@
-# *Bob, a highschool student at telecomunications is a scholar at math and science. 
+# *Bob, a highschool student at telecomunications is a scholar at math and science.* 
 # Life
 Your Life is at stake with this one choice.  What do you do?
 
