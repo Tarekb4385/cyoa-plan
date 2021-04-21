@@ -11,5 +11,4 @@ Your Life is at stake with this one choice.  What do you do?
 
 [get incredibly panicky](work.md)
 
-[get incredibly panicky](failed.md)
-[don't get panicked](situations/work.md)
+
